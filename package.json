@@ -1,0 +1,18 @@
+{
+  "name": "tuukka",
+  "version": "1.0.0",
+  "description": "Project for Nodeschool.io how-to-npm -workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "laughing-hipster"
+  },
+  "keywords": [
+    "nodeschool"
+  ],
+  "author": "tuukkalai",
+  "license": "ISC"
+}
